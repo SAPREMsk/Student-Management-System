@@ -16,8 +16,8 @@ public class Student {
 	@Column(unique = true)
 	private String email;
 	private long phoneNo;
-	
-	
+	// this is temp comment
+
 	public Student() {
 		super();
 		// TODO Auto-generated constructor stub
